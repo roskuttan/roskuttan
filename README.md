@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Angelo Rison!  
 
-I'm a **Robotics Firmware Engineer** from **Thrissur, Kerala, India**, passionate about robotics, automation, and embedded systems. I enjoy solving complex challenges in firmware development and working with cutting-edge technologies.  
+I'm a **Robotics Engineer** from **Thrissur, Kerala, India**, passionate about robotics, automation, and embedded systems. I enjoy solving complex challenges in firmware development and working with cutting-edge technologies.  
 
 ---
 
