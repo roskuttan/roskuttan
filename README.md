@@ -31,4 +31,4 @@ Here are some of the projects I've worked on:
 ---
 
 ## 📫 Let's Connect!  
-Want to collaborate or discuss robotics? Reach out to me via **[email](angelococ2018@gmail.com)** or check out my projects and socials on **[Linktree](https://linktr.ee/roskuttan)**.  
+Want to collaborate or discuss robotics? Reach out to me via socials on **[Linktree](https://linktr.ee/roskuttan)**.  
